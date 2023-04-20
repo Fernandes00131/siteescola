@@ -1,0 +1,116 @@
+header {
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background: #1045EF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ffffff;
+}
+.alura-start {
+    left: 173px;
+    top: 30px;
+    font-size: 30px;
+    padding: 15px 0;
+    color: #ffffff;
+}
+.header-lista-item {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 25px;
+}
+
+
+
+.escola {
+    width: 100%;
+    background: linear-gradient(360deg, #FFC700 0%, #1045EF 101.56%, #1045EF 101.57%);
+}
+.escola-texto {
+    font-size: 20px;
+    padding: 100px 0 80px 6%; /*    PADDING: TOP RIGHT BOTTOM LEFT;    */
+    line-height: 30px;
+    color: #ffffff;
+    
+}
+.escola-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10%;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.escola-paragrafo-1 {
+    width: 88%;
+}
+.escola-paragrafo-2 {
+    width: 70%;
+    margin-top: 8px;
+}
+.escola-mesma-linha {
+    display: flex;
+    width: 88%;
+    justify-content: center;
+}
+.colegio-img {
+    width: 30%;
+    margin-left: 10px;
+}
+
+
+
+.estudantes {
+    background: #FFC700;
+}
+.estudantes-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 20px 12.5%;
+}
+.estudantes-dados-1 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.estudantes-dados-2 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.caixa-1 {
+    width: 15%;
+    border: #000000 solid 2px;
+    border-radius: 10px;
+}
+.caixa-2 {
+    width: 15%;
+    border: #000000 solid 2px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.caixa-imagem {
+    width: 85%;
+    height: 200px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.caixa-contatos {
+    display: flex;
+    justify-content: space-evenly;
+}
+.caixa-contatos img {
+    width: 32px;
+    height: 32px;
+}
+.caixa-1 h1, .caixa-2 h1 {
+    font-weight: bold;
+}
+
+
+
+footer {
+    width: 100%;
+    background: #000000;
+}
